@@ -13,6 +13,7 @@ Our focus is on usability, speed and fewer dependencies. We have also begun work
 #####General 
     pip install virtualenv
     pip install virtualenvwrapper
+    pip install lxml
 
     git clone --depth=1 https://github.com/mozillasecurity/peach
 
